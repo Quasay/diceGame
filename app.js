@@ -76,7 +76,7 @@ function hold(){
         scores[activePlayer] += roundScore;
         document.querySelector('#score-' + activePlayer).textContent = scores[activePlayer];
 
-        if (scores[activePlayer] >= 10) {
+        if (scores[activePlayer] >= 100) {
             gamePlaying = false;
             document.querySelector('#name-' + activePlayer).textContent = "Winner!"
             diceDOM.style.display = 'none';

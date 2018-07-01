@@ -7,6 +7,7 @@ my take on the classic Pig Dice Game that many people have played. I utilized
 HTML, CSS, & Javascript (ES5) for this project with my focus being functionality and basic User Interface design principles. This simple game was made by me so I can practice what I learned on real world projects & showcase my skills as an asipring developer/designer.  
 
 
+
 ## Table of Contents (Excluding Images):
 - index.html 
 - style.css

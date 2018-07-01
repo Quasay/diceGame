@@ -8,7 +8,6 @@ me so I can practice what I learned on real world projects & showcase my ski-
 lls as an asipring developer/designer.  
 
 
-
 Table of Contents (Excluding Images):
     - index.html 
     - style.css
